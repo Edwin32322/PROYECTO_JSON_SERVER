@@ -1,0 +1,64 @@
+{
+  "profesores": [
+    {
+      "nombre": "Edwin",
+      "apellido": "Goaly",
+      "materias": [
+        {
+          "nombre": "NodeJS desde cero"
+        },
+        {
+          "nombre": "ReactJS desde cero"
+        },
+        {
+          "nombre": "JavaScript desde cero"
+        }
+      ],
+      "id": "e522"
+    },
+    {
+      "nombre": "David",
+      "apellido": "Goaly",
+      "materias": [
+        {
+          "nombre": "Java avanzado 6"
+        }
+      ],
+      "id": "ac00"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "9677"
+    },
+    {
+      "nombre": "Sean",
+      "apellido": "Strickland",
+      "promedio": 10,
+      "id": "8304"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "b2d8"
+    },
+    {
+      "nombre": "Angular desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "5aaf"
+    },
+    {
+      "nombre": "Vue desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "da88"
+    }
+  ]
+}
